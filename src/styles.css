@@ -1,0 +1,19 @@
+body {
+  background: #f8e8a6;
+  text-align: center;
+}
+
+.croissant-photo {
+  border-radius: 8px;
+  max-width: 100%;
+  display: block;
+  margin: 25px auto;
+}
+
+footer {
+  text-align: center;
+}
+footer a {
+  color: green;
+  margin: 10px 15px;
+}
